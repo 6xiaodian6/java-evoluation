@@ -1,2 +1,2 @@
 # java-evoluation
-java项目从单纯的servlet处理请求并响应到使用简单的ssm框架解决部分冗杂的问题再到整合dubbo、cloud等生产出高可用的巨大项目的演进demo
+java项目从单纯的servlet处理请求并响应到使用简单的ssm框架解决部分冗杂的问题再到整合dubbo、cloud等生产出高可用的巨大项目的演进demo，通过对比项目架构的进化来看java的升级变迁之路，从而更有针对性的学习新技术。
